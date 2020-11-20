@@ -65,7 +65,7 @@
 - var keyword
   { } is called block
 
-From ES6 keywords onwards using let and const keywords used.
+- From ES6 keywords onwards using let and const keywords used.
 
 ## variable hoisting
 
@@ -93,8 +93,8 @@ From ES6 keywords onwards using let and const keywords used.
 
 5. variable hoisting raised ------------5) we can overcome variable hoisting
 
-   6. var keyword is the global scope 6) let keyword is the block scoped member
-      member
+6. var keyword is the global scope---6. let keyword is the block scoped member
+   member
 
 \*/
 
